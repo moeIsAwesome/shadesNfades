@@ -30,7 +30,7 @@ function App() {
           <h1 className="title">The shades and fades of life</h1>
         </div>
 
-        <form onSubmit={handleSubmit}>
+        <form className="phone" onSubmit={handleSubmit}>
           <button className="glass-button" type="submit">
             Submit
           </button>
