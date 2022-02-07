@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import SingleColor from './SingleColor';
+import Icon from './Logo.png';
 
 import Values from 'values.js';
 
@@ -24,7 +25,11 @@ function App() {
   return (
     <div className="glass-panel">
       <section className="glass-panel2">
-        <h1 className="title">The shades and fades of life</h1>
+        <div className="flex">
+          <img className="logo" src={Icon} alt="Logo" />
+          <h1 className="title">The shades and fades of life</h1>
+        </div>
+
         <form onSubmit={handleSubmit}>
           <button className="glass-button" type="submit">
             Submit
