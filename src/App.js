@@ -44,8 +44,8 @@ function App() {
             }}
           />
 
-          <label className="input-label">
-            /
+          <label>
+            <span className="label">/</span>
             <input
               className="percent"
               type="number"

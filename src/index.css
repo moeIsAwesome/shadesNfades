@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&family=Nunito:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&family=Nunito:wght@200;400&display=swap');
 :root {
   /* dark shades of primary color*/
   --bg: #00b7e7;
@@ -58,9 +58,9 @@ input.error {
 input.percent {
   width: 75px;
 }
-.input-label {
-  font-size: 2rem;
-  font-weight: 500;
+.label {
+  font-size: 2.5rem;
+  margin-left: 1rem;
 }
 
 .title {
@@ -259,5 +259,11 @@ input.percent {
     flex-direction: column-reverse;
     justify-content: center;
     align-items: center;
+  }
+  .label {
+    /* display: none; */
+  }
+  form input:nth-of-type(1) {
+    order: 2;
   }
 }
