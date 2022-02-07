@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shadesNfades/static/css/main.77e1ad26.css",
+    "main.js": "/shadesNfades/static/js/main.1546fce4.js",
+    "index.html": "/shadesNfades/index.html",
+    "main.77e1ad26.css.map": "/shadesNfades/static/css/main.77e1ad26.css.map",
+    "main.1546fce4.js.map": "/shadesNfades/static/js/main.1546fce4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77e1ad26.css",
+    "static/js/main.1546fce4.js"
+  ]
+}
