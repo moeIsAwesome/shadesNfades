@@ -50,6 +50,7 @@ function App() {
               className="percent"
               type="number"
               min={0}
+              max={100}
               value={percent}
               onChange={(e) => {
                 setPercent(e.target.value);
