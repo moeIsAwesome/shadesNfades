@@ -1,70 +1,22 @@
-# The shades and fades of life! 
+<div align="left">
+  <img width="100" height="100" src="https://lh3.googleusercontent.com/fife/AAWUweXAzXJY6lVo8Zuov7vJK6d2ZJ-fLnnrlv3A-3YCvE_XNslse6mXks1e3IBmbx2ypWgxavEiAUb1jy5G4d6FD27lTB0husnbGo-DIdjt7pKF8nIeYOB0zz6fp4DeJs3skGKYoOCMFyVpLfZBM9jT36r-0fQctJt06rghS1x1YyXp2Qm6CP02RgK_fsbOEd_PCpQ2cXnRETgXUQ9IvyIM8MfPCiKzLtL9-gjT2k37Z8Hmk8znFQPy0eomdNdd_mTamGAS7I4HANjdgNX1JEioe5Vm_LvAOyPcNzsFkBl8rOzHTl9iVsiDm1uFVHSnjMgDPbmiAaWR447p61CAFWbg243uM5hQEv4Os5d-shP2BruSaD0vIAnHllwUOWGRbYB9jl9jo21CGZ8Etasm2VdLavBorpMVvhuPAGCs925KAj5bIzVDyBZ_l06moX9_-ooPw8SGFCPt0Qt44FgdeaKBpVh3D678fpWkJf8I3kb1WLmpkSpOMK02OB7iwEB_XGRGkfEOf35LoicfOyunGpTuZHhCYP9sNxmnz0dqH5bZ0P4su28Jq5UykyvVVhGOE8L31hGMEe3VJjMq3AQ9tnVqP9C0GoE15Hf3l9GPpJxHieQHqV7FUWskUttRJsE_dgBoQpUW8BoQV4KEENDuM0YatYHaRt83ROSK1bFLBP6XxPBCwXDrJCJSlCknxEIkeTcdfjmfj6BiuU8B5oCRUxpid-FPzDGtWBNQ2J8=w1920-h880-ft">
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## The shades and fades of life!
 
-## Available Scripts
+### Provides you with the ability to pick the color you want for your design
 
-In the project directory, you can run:
+**How to use:**
 
-### `npm start`
+Enter the Hex color code you want. Next, enter a number from 1 to 100. The lower the number, the more colors you will receive.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**What tools are used in this project?**
+* React JS
+* Values.js (External library)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+<div align="left">
+  <img src="https://lh3.googleusercontent.com/fife/AAWUweXp_SqamEvaqiTqE6Bv7EhgXrTI10FFkSSd5nsUUm61BjUgOQZyK82k_4ax3aDh9atnRn54-ukTcnGCeKthyFDG6xPiwUfcikAj2s_GSJWFuYNX3EyJQr9hQp2V6v4gQbLvGMAXqTZPkFpgN9l6smwe1iaQHvzsC1DxMytO5l-f2Xvi2OhX7LYt_x3wDwPmX7QOZ07MPvws-geYNu_n77RA6faAAfBIpEgAtVdzRoxgK8yj0Ht2ebwK12f6BUyyN9TYR-DU1_3mDmTqhclRw8FsaUzrbRWJ9HP8tHzzOP586ZdmHToc_GEUH_3s5LG4QZw3c5xRlENh-U1AHxM6uUO5_SVGKNgOJGZ6U2hK9XRqntdTr4htWtdRkX2LKkDFrVOaoqI2BGFFVjU6klYfwQ1h5tOAzUUe_GhdvZ3ZfJxh1Bcy5LPSgrgd_m_UotKPPkVhvTsiEp4XYJ9gSjaIp6CWVSPjyxi2rM9J3ujrkwNStEyW_sCAEyiQi3GFeNggC4jIWS4C58Asm5061cLDcnkKthaz4Qwebd86_hjxFGArXFglrPNb4LQ0AjDEpWOAjyP5xz4f9AtPwz2keIcesPzUh8gYEZrw63_17Y3qk1ucteTGyUYSJiAfC6LU3JwFsCpLMikEhiCQ_Zhi2N41uC47F73EEcfgrEVwwWniogD6oQkAEVc6Xw4h-lsoLPW9W1qRr2sqQV3mEb8L4YW_F8S1Umwd35XHtaw=w1920-h937-ft">
+    <img src="https://lh3.googleusercontent.com/fife/AAWUweVVFNaNa-3xXcdA3n9sPy9XwsCG40XkUOSVMcaA4xfb5Bp_KBCXB6XK4cAyObmXnjrp9rmLDFyR-MQIH6B_rIisQLa7y9f1KqyETbww0FXn9slpOK7ys6HeaBJObBuKFFBJYLCRjnWooD6uVajq6yy10r1ecJyAGqP8Sb14ahfm1DsnvgLVWPPxFc7D4K81oj7nZsIr0F90z9gb84_qa26iTXJZQwPAXwtUMr8wCw72WDlVgKrFZp9eeHHpI7jCBHxa8DFHHEEPBZHrjkl-K1zLxEpx7sy4-zcUZVM-QfWrOddgz6ni7B37s1J-Qq1jNSyChDujfG_iOQ3_ur6sh4owjyD1bYBRPCwxzIukPhEd55XftSHKEUVXICBDpvR7QWjBp-_iv1PynIY2IaCxkORUpJF4rEPxxXezmhCI4isq7OUwPsjL-wYAczmozjwu_IYb_Ytn07eFPrPbRz0nWWeB3G-1uW34JJ5MBfWgKS2XErhNdQC2tCQLI9w8goqRWy38951yOdPHCg2XWMOA1F4F4xm4YaMv-OdmjH-rlbWHv0j38G9mYi_znLDuz0Bi4Ayfy3VyMW-WCbBqbtSrf1XLPNewSpUD15UyvoWNdYktpkQ-_z_AA9kdLVqUDbF7hL17a-1GTOrHJCdFfsF1BfGD6Rc0Cn1d4hz02zwYyJ5xgwFq53hqmbvaOz00S9l5Yia94JrZgMJ4hl8rffSJt4BVdV2XXimZ_Pc=w1920-h937-ft">
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
