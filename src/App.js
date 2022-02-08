@@ -9,7 +9,6 @@ function App() {
   const [error, setError] = useState(false);
   const [percent, setPercent] = useState(10);
   const [list, setList] = useState(new Values('#00b7e7').all(10));
-  const [alert, setAlert] = useState(false);
 
   const handleSubmit = (e) => {
     e.preventDefault();

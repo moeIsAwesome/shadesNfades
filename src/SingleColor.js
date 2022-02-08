@@ -1,11 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import rgbToHex from './utils';
 import { IoCopyOutline } from 'react-icons/io5';
 
 const SingleColor = ({ rgb, weight, index, hexColor, list }) => {
   const [alert, setAlert] = useState(false);
   const bcg = rgb.join(',');
-  const hex = rgbToHex(...rgb);
   const hexValue = `#${hexColor}`;
   useEffect(() => {
     const timeout = setTimeout(() => {
