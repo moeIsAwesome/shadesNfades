@@ -9,10 +9,16 @@
 **How to use:**
 
 Enter the Hex color code you want. Next, enter a number from 1 to 100. The lower the number, the more colors you will receive.
+Enjoy!
+
+https://moeisawesome.github.io/shadesNfades/
+
 
 **What tools are used in this project?**
 * React JS
 * Values.js (External library)
+
+
 
 
 <div align="left">
