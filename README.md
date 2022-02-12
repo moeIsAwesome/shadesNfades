@@ -14,7 +14,7 @@ Enjoy!
 https://moeisawesome.github.io/shadesNfades/
 
 
-**What tools are used in this project?**
+**What tools were used in this project?**
 * React JS
 * Values.js (External library)
 
