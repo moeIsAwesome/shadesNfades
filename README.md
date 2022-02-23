@@ -11,7 +11,7 @@
 Enter the Hex color code you want. Next, enter a number from 1 to 100. The lower the number, the more colors you will receive.
 Enjoy!
 
-https://moeisawesome.github.io/shadesnfades/
+https://moeisawesome.github.io/shadesNfades/
 
 
 **What tools were used in this project?**
