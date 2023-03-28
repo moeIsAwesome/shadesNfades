@@ -17,7 +17,7 @@ https://moeisawesome.github.io/shadesNfades/
 **What tools were used in this project?**
 
 * React JS
-* Value JS (Externak Library)
+* Value JS
 
 <div align="left">
  
